@@ -17,22 +17,22 @@
     O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
 </p>
 <ul>
-    <li>
-        <ul>Medida 1:
+    <li>Medida 1:
+        <ul>
             <li>Amazon GuardDuty;</li>
             <li>Monitoramento de segurança na nuvem;</li>
             <li>Implementação de um serviço de monitoramento contínuo de ameaças e atividades suspeitas na nuvem.</li>
         </ul>
     </li>
-    <li>
-        <ul>Medida 2:
+    <li>Medida 2:
+        <ul>
             <li>AWS WAF;</li>
             <li>Firewall de Aplicação Web;</li>
             <li>Proteção de aplicativos da web contra ataques comuns na internet, incluindo SQL Injection e Cross-Site Scripting.</li>
         </ul>
     </li>
-    <li>
-        <ul>Medida 3:
+    <li>Medida 3:
+        <ul>
             <li>Amazon Inspector;</li>
             <li>Análise de segurança automatizada;</li>
             <li>Realização de verificações automatizadas em busca de vulnerabilidades em instâncias EC2 e aplicações em execução.</li>
